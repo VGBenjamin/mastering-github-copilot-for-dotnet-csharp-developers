@@ -14,7 +14,7 @@ Let's try this out utilizing C# for Copilot.
 > **Note**:
 > Make sure to open the **Solution Explorer** to see an organized view to easily add new projects and run them..
 
-1. Create a new .NET project by using the `shift+alt+P` `.NET: New Project...` command and selecting `Console App`. 
+1. Create a new .NET project by using the `shift+alt+P` `.NET: New Project...` command and selecting `Console App` in the default folder. 
 1. Select the **code** folder and name the project **Skills**.
 1. Open `Program.cs`
 1. Verify your new file looks like:
