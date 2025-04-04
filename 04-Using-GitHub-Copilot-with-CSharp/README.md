@@ -88,7 +88,7 @@ The running application in a browser should be like this one.
 
 Now let's add a break point into our application, to debug each call to the API. Go to the `Program.cs` file in the BackEnd project. The file is in the following path `SampleApp\BackEnd\Program.cs`. 
 
-Add a breakpoint in line 24 (press F9) and refresh the browser with the Url to test the endpoint. The browser should not show the weather forecast, and in the Visual Studio Editor we can see how the program execution was paused at line 24.
+Add a breakpoint in line 37 (press F9) and refresh the browser with the Url to test the endpoint. The browser should not show the weather forecast, and in the Visual Studio Editor we can see how the program execution was paused at line 37.
 
 ![debug the running application.](./images/009DebugBackEndDemo.png)
 
