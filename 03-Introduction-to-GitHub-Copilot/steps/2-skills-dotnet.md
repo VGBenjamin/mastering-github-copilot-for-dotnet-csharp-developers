@@ -12,7 +12,7 @@ Let's try this out utilizing C# for Copilot.
 ### ⌨️ Activity: Add a C# file and start writing code
 
 > **Note**:
-> <span style="color:red">Make sure to open the **Solution Explorer** to see an organized view to easily add new projects and run them..</span>
+> <span style="color:red">❗Make sure to open the **Solution Explorer** to see an organized view to easily add new projects and run them..</span>
 
 1. Create a new .NET project by using the `shift+alt+P` `.NET: New Project...` command and selecting `Console App` in the default folder. 
 1. Select the **code** folder and name the project **Skills**.
