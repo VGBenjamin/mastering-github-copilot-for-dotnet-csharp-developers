@@ -42,4 +42,4 @@ Let's use GitHub Copilot to summarize our changes and then commit the code.
 
 Head to [Exercise 4 - Using GitHub Copilot with C#](../../04-Using-GitHub-Copilot-with-CSharp/README.md)
 
-+ explain the powershell script
+# explain the powershell script
