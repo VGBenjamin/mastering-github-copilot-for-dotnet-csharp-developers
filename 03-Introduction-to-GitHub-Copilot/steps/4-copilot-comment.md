@@ -42,4 +42,16 @@ Let's use GitHub Copilot to summarize our changes and then commit the code.
 
 Head to [Exercise 4 - Using GitHub Copilot with C#](../../04-Using-GitHub-Copilot-with-CSharp/README.md)
 
-# explain the powershell script
+### Edit a powershell script
+
+1. Open a powershell script
+2. Add a first comment to list the files with .cs extension
+3. Accept the suggestion
+4. Add a second comment to zip the .cs files
+5. Accept the suggestion
+
+### Demonstrate the NES
+
+1. Open the Member.cs
+2. Add a public string Firsname => he is proposing the next suggestion: Add the lastname in the ShowMember method
+3. If NES is not triggered you can try the following: Change the property string Address by a string[] it should trigger the change in the ToString method.
